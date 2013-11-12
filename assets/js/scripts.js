@@ -44,7 +44,7 @@ jQuery(document).ready(function() {
 
     /*
         Subscription form
-    */
+    
     $('.success-message').hide();
     $('.error-message').hide();
 
@@ -73,6 +73,6 @@ jQuery(document).ready(function() {
         });
         return false;
     });
-
+*/
 });
 
