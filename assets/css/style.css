@@ -58,6 +58,10 @@ a:hover { text-decoration: none; }
 .call-us p span { color: #888; }
 
 
+.fb-like {
+    padding: 16px 0 0 0;
+}
+
 /***** Coming Soon *****/
 
 .coming-soon {
