@@ -78,15 +78,14 @@ a { color: #FFFFFF; }
 .coming-soon h3 {
     font-size: 30px;
     font-weight: 400;
-    color: #EAF0F4;
-
-    text-shadow: 0 1px 7px rgba(0,0,0,.2);
+    color: #FFFFFF;
+    text-shadow: 0 2px 1px rgba(0,0,0,.3);
 }
 
 .coming-soon p {
     margin-top: 20px;
-    font-size: 18px;
-    line-height: 36px;
+    font-size: 19px;
+    line-height: 30px;
     text-shadow: 0 2px 7px rgba(0,0,0,1);
 }
 
